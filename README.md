@@ -18,6 +18,7 @@ Cassandra documents and resouces
 - [DataStax Java Driver](https://github.com/datastax/java-driver): A Java client driver for Apache Cassandra. This driver works exclusively with the Cassandra Query Language version 3 (CQL3) and Cassandra's binary protocol.
 - [Netflix Astyanax](https://github.com/Netflix/astyanax): Astyanax is a high level Java client for Apache Cassandra, based with Thrift protocal.
 - [Hector](https://github.com/hector-client/hector) : Hector is a high level Java client for Apache Cassandra, based with Thrift protocal.
+
 ### ORM Driver
 
 - [Caffinitas](http://caffinitas.org/mapper/): Caffinitas is an advanced object mapper for Apache Cassandra which has been especially designed to work with Datastax Java Driver 2.1+ against Apache Cassandra 2.1, 2.0 or 1.2.
