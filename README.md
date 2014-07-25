@@ -9,6 +9,9 @@ Cassandra documents and resouces
 - [CQL for Cassandra 2.0](http://www.datastax.com/documentation/cql/3.1/index.html): understand the SQL-like CQL of Cassandra
 - [DataStax Java Driver 2.0 API](http://www.datastax.com/documentation/developer/java-driver/2.0/index.html): access to Cassandra with Java Driver.
 
+### RDBMS -> Cassandra
+- [RDBMS to NoSQL](http://www.datastax.com/relational-database-to-nosql): Your roadmap to understanding whether NoSQL is right for you.
+- [MySQL to C*](http://planetcassandra.org/mysql-to-cassandra-migration/): mysql to cassandra migration guide
 
 ###  Use with Spark
 - [Install Cassandra and Spark](http://tobert.github.io/post/2014-07-15-installing-cassandra-spark-stack.html): quick user guide for integration with Cassandra and Spark 
