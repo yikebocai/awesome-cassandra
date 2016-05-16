@@ -39,5 +39,6 @@ Cassandra documents and resouces
 
 ### Admin and Monitor
 - [DataStax OpsCenter](http://www.datastax.com/what-we-offer/products-services/datastax-opscenter): Simplified management for DataStax Enterprise and Cassandra database clusters.
+- [Netflix-Priam](https://github.com/Netflix/Priam)Co-Process for backup/recovery, Token Management, and Centralized Configuration management for Cassandra.
 - [Cassandra Cluster Admin](https://github.com/sebgiroux/Cassandra-Cluster-Admin): Cassandra Cluster Admin is a GUI tool to help people administrate their Apache Cassandra cluster.
 - [How to Monitor Cassandra](https://www.datadoghq.com/blog/how-to-monitor-cassandra-performance-metrics/): A guide to help you monitor Cassandra performance and work metrics regardles of which monitoring tool you choose to use.
